@@ -111,7 +111,8 @@ CREATE TABLE `reqtd` (
 
 INSERT INTO `reqtd` (`id`, `name`, `email`, `booktdreq`) VALUES
 (68, 'Lucky', 'lucky@ezlibrary.com', '3 || HTML'),
-(69, 'Ayu', 'ayu@ezlibrary.com', '1 || Algorithm & DS C01');
+(69, 'Ayu', 'ayu@ezlibrary.com', '1 || Algorithm & DS C01'),
+(69, 'Reza', 'reza@ezlibrary.com', '2 || Algorithm & DS C01');
 
 --
 -- Indexes for dumped tables
