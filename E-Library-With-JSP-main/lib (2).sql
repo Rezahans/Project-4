@@ -43,8 +43,10 @@ CREATE TABLE `lib` (
 INSERT INTO `lib` (`id`, `img`, `judul`, `penulis`, `genre`, `link`) VALUES
 (1, '1CPvdtivn63bJ5BOmSOngFFiMqII6UwCU', 'Algorithm & DS C01', 'ipul', 'Science', '1GgzISEDwLQKtqZ-eW1-9-f6dGiu6P4vq'),
 (2, '111g9ruR3cyQ8ipUlVlARn9VeI9jJkNFs', 'Algoritm & DS C02', 'Hans', 'Science', '1GaQHgEGrtN9XMxkV0RgD4tCZTTBLNh_s'),
-(3, '1bXKQku0q7_yuuxKROLjAX6ULAiMUJsFZ', 'HTML', 'Ayu', 'Science', '1pNvO9Kz84GhnDn_PlxknrY-QS1N9ceAe');
-
+(3, '1bXKQku0q7_yuuxKROLjAX6ULAiMUJsFZ', 'HTML', 'Ayu', 'Science', '1pNvO9Kz84GhnDn_PlxknrY-QS1N9ceAe'),
+(4, '1bXKQku0q7_yuuxKROLjAX6ULAiMUJsFZ', 'CSS', 'Ayesha', 'Science', '1pNvO9Kz84GhnDn_PlxknrY-QS1N9ceAe'),
+(5, '1bXKQku0q7_yuuxKROLjAX6ULAiMUJsFZ', 'JS', 'Fey', 'Science', '1pNvO9Kz84GhnDn_PlxknrY-QS1N9ceAe'),
+(6, '1bXKQku0q7_yuuxKROLjAX6ULAiMUJsFZ', 'C++', 'Hasan', 'Science', '1pNvO9Kz84GhnDn_PlxknrY-QS1N9ceAe');
 -- --------------------------------------------------------
 
 --
