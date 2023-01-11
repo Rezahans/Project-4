@@ -88,7 +88,9 @@ CREATE TABLE `reqbook` (
 
 INSERT INTO `reqbook` (`id`, `name`, `email`, `bookreq`) VALUES
 (20, 'Daniel', 'daniel@ezlibrary.com', 'CSS'),
-(21, 'Hans', 'rezacrent@gmail.com', 'Css');
+(21, 'Hans', 'rezacrent@gmail.com', 'HTML');
+(22, Ipul, 'ipul@gmail.com', 'Java');
+(23, 'AWak', 'awak@gmail.com', 'C++');
 
 -- --------------------------------------------------------
 
